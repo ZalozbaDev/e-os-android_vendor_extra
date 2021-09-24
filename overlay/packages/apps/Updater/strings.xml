@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Set a custom Updater URL -->
+    <string name="updater_server_url" translatable="false">https://eosupdate.serbski-inkubator.de/api/v1/{device}/{type}/{incr}</string>
+
+</resources>

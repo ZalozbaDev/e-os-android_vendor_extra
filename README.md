@@ -2,6 +2,9 @@
 
 Add this repo to the manifest and place it in "vendor/extra/".
 
+The only purpose for this repo right now is to change the OTA URL. In case this works already with the build arg,
+this repo does not have to be used.
+
 ## Custom OTA URL set in "product.mk"
 
 See this info from reddit: https://www.reddit.com/r/LineageOS/comments/c38itu/configuring_the_lineage_ota_updater/
